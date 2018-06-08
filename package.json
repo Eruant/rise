@@ -1,0 +1,10 @@
+{
+  "name": "rise",
+  "version": "0.0.1",
+  "description": "Simple website development",
+  "scripts": {
+    "start": "node --experimental-modules server.mjs"
+  },
+  "author": "Matt Gale <matt@littleball.co.uk>",
+  "license": "UNLICENCED"
+}
